@@ -1,0 +1,589 @@
+Player Number: 21
+Total Wins: 1
+Total Losses:6
+Total Draws: 3
+Win Percentage: 10.00%
+
+Player Number: 30
+Total Wins: 0
+Total Losses:3
+Total Draws: 7
+Win Percentage: 0.00%
+
+Player Number: 35
+Total Wins: 3
+Total Losses:4
+Total Draws: 3
+Win Percentage: 30.00%
+
+Player Number: 29
+Total Wins: 4
+Total Losses:0
+Total Draws: 6
+Win Percentage: 40.00%
+
+Player Number: 22
+Total Wins: 7
+Total Losses:2
+Total Draws: 1
+Win Percentage: 70.00%
+
+Player Number: 1
+Total Wins: 5
+Total Losses:3
+Total Draws: 2
+Win Percentage: 50.00%
+
+Player Number: 33
+Total Wins: 5
+Total Losses:1
+Total Draws: 4
+Win Percentage: 50.00%
+
+Player Number: 6
+Total Wins: 5
+Total Losses:1
+Total Draws: 4
+Win Percentage: 50.00%
+
+Player Number: 8
+Total Wins: 0
+Total Losses:5
+Total Draws: 5
+Win Percentage: 0.00%
+
+Player Number: 45
+Total Wins: 4
+Total Losses:2
+Total Draws: 4
+Win Percentage: 40.00%
+
+Player Number: 19
+Total Wins: 0
+Total Losses:6
+Total Draws: 4
+Win Percentage: 0.00%
+
+Player Number: 24
+Total Wins: 3
+Total Losses:1
+Total Draws: 6
+Win Percentage: 30.00%
+
+Player Number: 43
+Total Wins: 2
+Total Losses:7
+Total Draws: 1
+Win Percentage: 20.00%
+
+Player Number: 27
+Total Wins: 4
+Total Losses:1
+Total Draws: 5
+Win Percentage: 40.00%
+
+Player Number: 34
+Total Wins: 7
+Total Losses:3
+Total Draws: 0
+Win Percentage: 70.00%
+
+Player Number: 40
+Total Wins: 2
+Total Losses:5
+Total Draws: 3
+Win Percentage: 20.00%
+
+Player Number: 3
+Total Wins: 4
+Total Losses:5
+Total Draws: 1
+Win Percentage: 40.00%
+
+Player Number: 39
+Total Wins: 9
+Total Losses:1
+Total Draws: 0
+Win Percentage: 90.00%
+
+Player Number: 23
+Total Wins: 1
+Total Losses:0
+Total Draws: 9
+Win Percentage: 10.00%
+
+Player Number: 2
+Total Wins: 4
+Total Losses:6
+Total Draws: 0
+Win Percentage: 40.00%
+
+Player Number: 10
+Total Wins: 3
+Total Losses:1
+Total Draws: 6
+Win Percentage: 30.00%
+
+Player Number: 4
+Total Wins: 1
+Total Losses:5
+Total Draws: 4
+Win Percentage: 10.00%
+
+Player Number: 9
+Total Wins: 1
+Total Losses:4
+Total Draws: 5
+Win Percentage: 10.00%
+
+Player Number: 14
+Total Wins: 5
+Total Losses:2
+Total Draws: 3
+Win Percentage: 50.00%
+
+Player Number: 16
+Total Wins: 2
+Total Losses:0
+Total Draws: 8
+Win Percentage: 20.00%
+
+Player Number: 12
+Total Wins: 2
+Total Losses:0
+Total Draws: 8
+Win Percentage: 20.00%
+
+Player Number: 13
+Total Wins: 2
+Total Losses:3
+Total Draws: 5
+Win Percentage: 20.00%
+
+Player Number: 5
+Total Wins: 6
+Total Losses:4
+Total Draws: 0
+Win Percentage: 60.00%
+
+Player Number: 36
+Total Wins: 2
+Total Losses:7
+Total Draws: 1
+Win Percentage: 20.00%
+
+Player Number: 15
+Total Wins: 7
+Total Losses:2
+Total Draws: 1
+Win Percentage: 70.00%
+
+Player Number: 38
+Total Wins: 0
+Total Losses:6
+Total Draws: 4
+Win Percentage: 0.00%
+
+Player Number: 18
+Total Wins: 3
+Total Losses:1
+Total Draws: 6
+Win Percentage: 30.00%
+
+Player Number: 17
+Total Wins: 5
+Total Losses:2
+Total Draws: 3
+Win Percentage: 50.00%
+
+Player Number: 7
+Total Wins: 7
+Total Losses:3
+Total Draws: 0
+Win Percentage: 70.00%
+
+Player Number: 37
+Total Wins: 7
+Total Losses:2
+Total Draws: 1
+Win Percentage: 70.00%
+
+Player Number: 20
+Total Wins: 4
+Total Losses:3
+Total Draws: 3
+Win Percentage: 40.00%
+
+Player Number: 26
+Total Wins: 1
+Total Losses:5
+Total Draws: 4
+Win Percentage: 10.00%
+
+Player Number: 41
+Total Wins: 1
+Total Losses:3
+Total Draws: 6
+Win Percentage: 10.00%
+
+Player Number: 44
+Total Wins: 3
+Total Losses:1
+Total Draws: 6
+Win Percentage: 30.00%
+
+Player Number: 42
+Total Wins: 5
+Total Losses:1
+Total Draws: 4
+Win Percentage: 50.00%
+
+Player Number: 31
+Total Wins: 1
+Total Losses:1
+Total Draws: 8
+Win Percentage: 10.00%
+
+Player Number: 28
+Total Wins: 7
+Total Losses:1
+Total Draws: 2
+Win Percentage: 70.00%
+
+Player Number: 25
+Total Wins: 3
+Total Losses:3
+Total Draws: 4
+Win Percentage: 30.00%
+
+Player Number: 61
+Total Wins: 2
+Total Losses:6
+Total Draws: 2
+Win Percentage: 20.00%
+
+Player Number: 46
+Total Wins: 3
+Total Losses:2
+Total Draws: 5
+Win Percentage: 30.00%
+
+Player Number: 57
+Total Wins: 6
+Total Losses:1
+Total Draws: 3
+Win Percentage: 60.00%
+
+Player Number: 52
+Total Wins: 5
+Total Losses:1
+Total Draws: 4
+Win Percentage: 50.00%
+
+Player Number: 60
+Total Wins: 2
+Total Losses:1
+Total Draws: 7
+Win Percentage: 20.00%
+
+Player Number: 76
+Total Wins: 1
+Total Losses:0
+Total Draws: 9
+Win Percentage: 10.00%
+
+Player Number: 71
+Total Wins: 2
+Total Losses:2
+Total Draws: 6
+Win Percentage: 20.00%
+
+Player Number: 67
+Total Wins: 4
+Total Losses:2
+Total Draws: 4
+Win Percentage: 40.00%
+
+Player Number: 72
+Total Wins: 3
+Total Losses:7
+Total Draws: 0
+Win Percentage: 30.00%
+
+Player Number: 74
+Total Wins: 1
+Total Losses:3
+Total Draws: 6
+Win Percentage: 10.00%
+
+Player Number: 81
+Total Wins: 1
+Total Losses:5
+Total Draws: 4
+Win Percentage: 10.00%
+
+Player Number: 82
+Total Wins: 4
+Total Losses:1
+Total Draws: 5
+Win Percentage: 40.00%
+
+Player Number: 80
+Total Wins: 0
+Total Losses:5
+Total Draws: 5
+Win Percentage: 0.00%
+
+Player Number: 78
+Total Wins: 0
+Total Losses:0
+Total Draws: 10
+Win Percentage: 0.00%
+
+Player Number: 58
+Total Wins: 1
+Total Losses:3
+Total Draws: 6
+Win Percentage: 10.00%
+
+Player Number: 56
+Total Wins: 3
+Total Losses:4
+Total Draws: 3
+Win Percentage: 30.00%
+
+Player Number: 65
+Total Wins: 3
+Total Losses:0
+Total Draws: 7
+Win Percentage: 30.00%
+
+Player Number: 62
+Total Wins: 0
+Total Losses:5
+Total Draws: 5
+Win Percentage: 0.00%
+
+Player Number: 75
+Total Wins: 3
+Total Losses:4
+Total Draws: 3
+Win Percentage: 30.00%
+
+Player Number: 66
+Total Wins: 3
+Total Losses:2
+Total Draws: 5
+Win Percentage: 30.00%
+
+Player Number: 79
+Total Wins: 3
+Total Losses:3
+Total Draws: 4
+Win Percentage: 30.00%
+
+Player Number: 86
+Total Wins: 2
+Total Losses:2
+Total Draws: 6
+Win Percentage: 20.00%
+
+Player Number: 68
+Total Wins: 1
+Total Losses:1
+Total Draws: 8
+Win Percentage: 10.00%
+
+Player Number: 59
+Total Wins: 1
+Total Losses:4
+Total Draws: 5
+Win Percentage: 10.00%
+
+Player Number: 85
+Total Wins: 4
+Total Losses:2
+Total Draws: 4
+Win Percentage: 40.00%
+
+Player Number: 70
+Total Wins: 6
+Total Losses:1
+Total Draws: 3
+Win Percentage: 60.00%
+
+Player Number: 69
+Total Wins: 0
+Total Losses:6
+Total Draws: 4
+Win Percentage: 0.00%
+
+Player Number: 48
+Total Wins: 3
+Total Losses:5
+Total Draws: 2
+Win Percentage: 30.00%
+
+Player Number: 73
+Total Wins: 6
+Total Losses:2
+Total Draws: 2
+Win Percentage: 60.00%
+
+Player Number: 84
+Total Wins: 7
+Total Losses:1
+Total Draws: 2
+Win Percentage: 70.00%
+
+Player Number: 63
+Total Wins: 2
+Total Losses:7
+Total Draws: 1
+Win Percentage: 20.00%
+
+Player Number: 88
+Total Wins: 1
+Total Losses:4
+Total Draws: 5
+Win Percentage: 10.00%
+
+Player Number: 87
+Total Wins: 1
+Total Losses:1
+Total Draws: 8
+Win Percentage: 10.00%
+
+Player Number: 77
+Total Wins: 2
+Total Losses:1
+Total Draws: 7
+Win Percentage: 20.00%
+
+Player Number: 83
+Total Wins: 3
+Total Losses:3
+Total Draws: 4
+Win Percentage: 30.00%
+
+Player Number: 53
+Total Wins: 1
+Total Losses:7
+Total Draws: 2
+Win Percentage: 10.00%
+
+Player Number: 89
+Total Wins: 6
+Total Losses:1
+Total Draws: 3
+Win Percentage: 60.00%
+
+Player Number: 95
+Total Wins: 0
+Total Losses:1
+Total Draws: 9
+Win Percentage: 0.00%
+
+Player Number: 99
+Total Wins: 5
+Total Losses:1
+Total Draws: 4
+Win Percentage: 50.00%
+
+Player Number: 97
+Total Wins: 1
+Total Losses:8
+Total Draws: 1
+Win Percentage: 10.00%
+
+Player Number: 90
+Total Wins: 3
+Total Losses:2
+Total Draws: 5
+Win Percentage: 30.00%
+
+Player Number: 93
+Total Wins: 2
+Total Losses:2
+Total Draws: 6
+Win Percentage: 20.00%
+
+Player Number: 51
+Total Wins: 0
+Total Losses:9
+Total Draws: 1
+Win Percentage: 0.00%
+
+Player Number: 96
+Total Wins: 3
+Total Losses:5
+Total Draws: 2
+Win Percentage: 30.00%
+
+Player Number: 47
+Total Wins: 3
+Total Losses:5
+Total Draws: 2
+Win Percentage: 30.00%
+
+Player Number: 94
+Total Wins: 5
+Total Losses:5
+Total Draws: 0
+Win Percentage: 50.00%
+
+Player Number: 55
+Total Wins: 3
+Total Losses:3
+Total Draws: 4
+Win Percentage: 30.00%
+
+Player Number: 91
+Total Wins: 0
+Total Losses:1
+Total Draws: 9
+Win Percentage: 0.00%
+
+Player Number: 92
+Total Wins: 1
+Total Losses:5
+Total Draws: 4
+Win Percentage: 10.00%
+
+Player Number: 98
+Total Wins: 2
+Total Losses:3
+Total Draws: 5
+Win Percentage: 20.00%
+
+Player Number: 100
+Total Wins: 2
+Total Losses:0
+Total Draws: 8
+Win Percentage: 20.00%
+
+Player Number: 54
+Total Wins: 5
+Total Losses:0
+Total Draws: 5
+Win Percentage: 50.00%
+
+Player Number: 49
+Total Wins: 1
+Total Losses:3
+Total Draws: 6
+Win Percentage: 10.00%
+
+Player Number: 50
+Total Wins: 4
+Total Losses:0
+Total Draws: 6
+Win Percentage: 40.00%
+
+Player Number: 64
+Total Wins: 0
+Total Losses:5
+Total Draws: 5
+Win Percentage: 0.00%
+
+Total Games Played Per Player: 10
